@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/xrybecky/MVI_bot/issues"
   },
-  "homepage": "https://github.com/xrybecky/MVI_bot#readme"
+  "homepage": "https://github.com/xrybecky/MVI_bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
 }
